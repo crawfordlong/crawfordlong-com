@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/crawfordlong/crawfordlong-com
 
 go 1.19
 
